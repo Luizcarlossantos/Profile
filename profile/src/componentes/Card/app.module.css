@@ -1,0 +1,38 @@
+.principal{
+    background-color: rgb(237, 233, 228);
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+    border: 3px solid rgb(104, 113, 176);
+
+}
+
+img{
+    background-color: #ddd;
+    border-radius: 50%;
+    height: 150px;
+    object-fit: cover;
+    width: 150px;  
+  }
+
+  h2, p{
+    padding: 20px;
+  }
+
+  body{
+    background-color: #0b7eb0ef;
+  }
+
+  button{
+    color: aliceblue;
+    font-size: 12px;
+    border: 1px solid aliceblue;
+    background-image: linear-gradient(to right, #1BB8FA, #18BCDC, #27ECF3);
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 8px;
+  }
